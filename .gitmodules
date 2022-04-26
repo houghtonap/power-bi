@@ -1,0 +1,3 @@
+[submodule "irs-w2-specification-example"]
+	path = irs-w2-specification-example
+	url = ./irs-w2-specification-example

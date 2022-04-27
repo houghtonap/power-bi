@@ -8,10 +8,6 @@ html:
   offline:            false
   toc:                undefined
 print_background: false
-toc:
-  depth_from: 2
-  depth_to:   6
-  ordered:    false
 ---
 
 # IRS W-2 Specification Example

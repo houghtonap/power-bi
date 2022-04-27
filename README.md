@@ -1,2 +1,2 @@
 # power-bi
-Examples using Power BI.
+Power BI examples.

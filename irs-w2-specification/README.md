@@ -41,19 +41,19 @@ This example demonstrates two methods for extracting tables from a PDF document 
 
 ### Data Sources Used
 
-* [IRS EFW2 Publication 42-007](https://www.socialsecurity.gov/employer/efw/21efw2.pdf), tax year 2021 version 2
+- [IRS EFW2 Publication 42-007](https://www.socialsecurity.gov/employer/efw/21efw2.pdf), tax year 2021 version 2
 
 ### Documentation Tools
 
-* [Microsoft VS Code](https://code.visualstudio.com/), version 1.66.2
-* [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) extension, version 0.6.2
+- [Microsoft VS Code](https://code.visualstudio.com/), version 1.66.2
+- [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) extension, version 0.6.2
 
 ### Platform OS and Tools
 
-* [Adobe Acrobat DC](https://www.adobe.com/acrobat.html)
-* [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel), version 2203 build 16.0.15028.20218 64-bit
-* [Microsoft Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/), version 2.103.661.0 64-bit (March 2022)
-* [Microsoft Windows 10 Pro](https://www.microsoft.com/en-us/windowsforbusiness/windows-10-pro), version 10.0.19044 build 19044
+- [Adobe Acrobat DC](https://www.adobe.com/acrobat.html)
+- [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel), version 2203 build 16.0.15028.20218 64-bit
+- [Microsoft Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/), version 2.103.661.0 64-bit (March 2022)
+- [Microsoft Windows 10 Pro](https://www.microsoft.com/en-us/windowsforbusiness/windows-10-pro), version 10.0.19044 build 19044
 
 ## Power BI Parameters
 
